@@ -48,10 +48,10 @@ Analyze the percentage of sales attributed to different pizza sizes. this chart 
 
 Analyze the total number of pizzas sold for each pizza category.
 
-### 5. Top 5 Best Sellers by Revenue, Total Quantity, and Total Orders
+### 6. Top 5 Best Sellers by Revenue, Total Quantity, and Total Orders
 
 Highlight the top 5 best sellers by revenue, total quantity and total orders.
 
-### 5. Bottom 5 Best Sellers by Revenue, Total Quantity, and Total Orders
+### 7. Bottom 5 Best Sellers by Revenue, Total Quantity, and Total Orders
 
 Highlight the bottom 5 best sellers by revenue, total quantity and total orders.
